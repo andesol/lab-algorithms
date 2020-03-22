@@ -25,8 +25,6 @@ function selectionSort(arr) {
     return newArr
 }
 
-console.log(selectionSort([32, 22, 33, 21, 545, 2]))
-
 export default selectionSort
 
 
